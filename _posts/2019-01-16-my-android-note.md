@@ -47,6 +47,7 @@ ActionBar导入的包应该是android.support.v7.app.ActionBar而不是android.a
 3.设置屏幕常亮
 ---
 
+
 有时app需要手机屏幕常亮，这时需要用到以下代码：
 ```
 Window window=this.getWindow();  
