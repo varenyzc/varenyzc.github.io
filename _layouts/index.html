@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ site.title }}</title>
-
+    <script src="/assets/js/typeit.min.js"></script>
     <!--[if lt IE 9]>
       <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
@@ -33,7 +33,7 @@
     </div>
     <div class="index-content">
       <h1>{{ site.name }}</h1>
-      <p>{{ site.description }}</p>
+      <p id="type-it" data-typeitid="2xnigijn3tu">{{ site.description }}</p>
       <div class="index-contact">
         <p>
           {% if site.twitter %}
