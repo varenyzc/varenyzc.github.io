@@ -8,9 +8,9 @@ excerpt: 省去服务器搭建自己的博客网站。
 
 偶然一次知道使用github repo可以存放静态网页代码，因此可以以此来搭建自己的博客。以前在服务器中搭过wordpress，但是一旦服务器挂了，博客文件也都没了。因此在github中搭建博客也不失为一个不错的解决方案。
 
-github pages官方网站：https://pages.github.com/
+{github pages官方网站}(https://pages.github.com/)
 
-官方推荐jeklly主题框架，因此在github中找到了这个主题：https://github.com/showzeng/Minimalism，感觉不错，因此把它clone下来上传到自己的github。
+官方推荐jeklly主题框架，因此在github中找到了这个主题：[https://github.com/showzeng/Minimalism](https://github.com/showzeng/Minimalism)，感觉不错，因此把它clone下来上传到自己的github。
 ![image.png](https://upload-images.jianshu.io/upload_images/13517457-8356b2486b64335e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 **1.准备步骤：新建一个repo，仓库名字为xxx.github.io，其中xxx为你github的username。**
@@ -44,6 +44,6 @@ git push -u origin master
 
 至此完成博客的搭建。过点时间访问xxx.github.io就可以访问到你的博客啦~Enjoy yourself！
 
-##欢迎访问我的博客：https://varenyzc.github.io
+##欢迎访问[我的博客](https://varenyzc.github.io)
 
 
