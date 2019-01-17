@@ -15,15 +15,15 @@ defaults:
 
 # --- 网站信息设置 ---
 # 下面填写你的博客标题
-title: Minimalism
+title: varenyzc的世界
 # 下面填写你的网络常用名
-name: minimalism
+name: varenyzc
 # 下面填写你的座右铭或者是个性签名
-description: Minimalism is a jekyll theme for minimalist
+description: Less is more.
 # 你博客的 url 地址，比如：https://showzeng.github.io 或者是自定义的域名
-url: https://showzeng.github.io
+url: https://varenyzc.github.io
 # 在页尾的版权时间信息，比如：2016-2018，默认是 2018 年
-copyright_time: 2018
+copyright_time: 2019
 # 标签页的 logo 及博客的头像，如果你想引用网络图片资源，就取消下面的注解，并填写图片资源的 url 地址
 # 或者，推荐的做法是将这两个图片资源下载到本地的 /assets/img/ 文件夹下，且图片名必须命名为 favicon 和 avatar
 # favicon:
@@ -39,11 +39,11 @@ show_excerpt: true
 
 # --- 社交链接 ---
 # 取消下面的注解，并填写相应的你要开启的社交链接
-twitter: https://twitter.com/showzeng
-weibo: https://weibo.com/showzeng
-github: https://github.com/showzeng/Minimalism
+#twitter: https://twitter.com/showzeng
+weibo: https://weibo.com/varen5201314
+github: https://github.com/varenyzc
 # 邮件地址前面带上 mailto:
-email: mailto:kingstageshow@gmail.com
+email: mailto:465057895@qq.com
 # RSS 订阅
 rss: true
 # --- 社交链接 ---
@@ -51,11 +51,11 @@ rss: true
 
 # --- 站点统计 ---
 # 如果你想开启站点统计，取消下面一行注解，并填写相应统计运营商给的 id，可支持多个同时开启
-site_statistics: true
+#site_statistics: true
 # cnzz (友盟统计)
-cnzz_id: 1274425891
+#cnzz_id: 1274425891
 # Baidu (百度统计)
-# baidu_id:
+baidu_id: 1b3b1dd10417c649478b6e267a85591f
 # Google Analytics (谷歌统计)
 # google_id:
 # --- 站点统计 ---
