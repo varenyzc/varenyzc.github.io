@@ -44,6 +44,7 @@ git push -u origin master
 
 至此完成博客的搭建。过点时间访问xxx.github.io就可以访问到你的博客啦~Enjoy yourself！
 
-#欢迎访问[我的博客](https://varenyzc.github.io)#
+欢迎访问[我的博客](https://varenyzc.github.io)
+---
 
 
