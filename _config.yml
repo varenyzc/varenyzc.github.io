@@ -86,16 +86,16 @@ comment: true
 # 来必力 uid
 # livere_uid:
 # gitment 用户主，即 GitHub 用户名
-gitment_owner: showzeng
+gitment_owner: varenyzc
 # GitHub pages 仓库名，如：showzeng.github.io
-gitment_repo: showzeng.github.io
+gitment_repo: varenyzc.github.io
 # gitment 提供的对应 id 和 secret
 gitment_client_id: 76bb22ffd69cb9a2dc11
 gitment_secret: 1bc48766be80fbcb2802679ab796d76ac4fafe44
 # --- 评论设置 ---
 
 # theme: jekyll-theme-minimalism
-remote_theme: showzeng/Minimalism
+#remote_theme: showzeng/Minimalism
 
 exclude:
   - new
