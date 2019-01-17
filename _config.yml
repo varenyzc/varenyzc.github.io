@@ -67,7 +67,7 @@ baidu_id: 1b3b1dd10417c649478b6e267a85591f
 # 禁止右键菜单 (注：为全局设置，启用后所有页面均无法使用右键菜单)
 # lock_menu: true
 # 复制文本末尾添加版权声明 (注：启用后仅文章页和关于页复制添加版权声明)
-copy_with_declaration: true
+# copy_with_declaration: true
 # --- 版权声明 ---
 
 
