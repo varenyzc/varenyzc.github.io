@@ -1,7 +1,7 @@
 ---
 title: 使用github pages搭建个人博客
 date:  2019-01-17 14:00:33 +0800
-category: blog
+category: Minimalism
 tags: test
 excerpt: 省去服务器搭建自己的博客网站。
 ---
