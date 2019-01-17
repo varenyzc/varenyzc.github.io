@@ -27,8 +27,8 @@ git commit -m "说明文字"
 后面的步骤需要看在github上新建的仓库的HTTPS地址是多少。
 
 
-HTTPS地址
-![image](https://upload-images.jianshu.io/upload_images/13517457-9627a32d247749c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![HTTPS地址](https://upload-images.jianshu.io/upload_images/13517457-9627a32d247749c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 然后在git命令行窗口下输入以下代码：
 ```
@@ -38,17 +38,17 @@ git push -u origin master
 ```
 
 
-![image](https://upload-images.jianshu.io/upload_images/13517457-c21f8a21b388f43e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-git成功
+![git成功](https://upload-images.jianshu.io/upload_images/13517457-c21f8a21b388f43e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 推送完成后会让你输入github的用户名和密码。这里因为我已经输入过用户名密码，所以不用重复输入。
 
 
 
-![image](https://upload-images.jianshu.io/upload_images/13517457-ed53f2d99ba414a9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-github界面
+![github界面](https://upload-images.jianshu.io/upload_images/13517457-ed53f2d99ba414a9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 输入完就推送到github上啦。大功告成！在其他平台如gitlab、gogs等开源网站操作类似，只需修改HTTPS地址即可。
 
-也可以follow一下我的github，电子专业转行cs：https://github.com/varenyzc
+也可以follow一下我的github，电子专业转行cs：[https://github.com/varenyzc](https://github.com/varenyzc)
 
 enjoy yourself！
 
