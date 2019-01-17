@@ -14,7 +14,7 @@ excerpt: 使用git的方法，记录一下备忘。
 
 
 然后在你需要git的文件夹目录下右键Git Bash Here
-i[image](https://upload-images.jianshu.io/upload_images/13517457-dc6c0c1d332c9720.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image](https://upload-images.jianshu.io/upload_images/13517457-dc6c0c1d332c9720.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 命令行窗口
