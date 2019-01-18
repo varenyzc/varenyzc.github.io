@@ -33,7 +33,8 @@
     </div>
     <div class="index-content">
       <h1>{{ site.name }}</h1>
-      <p id="type-it" data-typeitid="2xnigijn3tu">{{ site.description }}</p>
+      <span id="type-it" data-typeitid="2xnigijn3tu">{{ site.description }}</span>
+      <script type="text/javascript"> new TypeIt('#type-it', { speed: 150, startDelay: 500, loop: true }); </script>
       <div class="index-contact">
         <p>
           {% if site.twitter %}
