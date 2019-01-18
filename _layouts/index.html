@@ -12,12 +12,17 @@
     <![endif]-->
 
     {% include favicon.html %}
-    <style id="">
+    <style type="text/css">
       .ti-container:before {
         content: '.';
         display: inline-block;
         width: 0;
         visibility: hidden;
+      }
+      .com{
+        justify-content: center;
+        align-items: flex-end;
+        display: flex;
       }
     </style>
     <link rel="stylesheet" href="{{ "/assets/css/index.css" }}" />
@@ -40,7 +45,7 @@
     </div>
     <div class="index-content">
       <h1>{{ site.name }}</h1>
-      <span id="type-it" data-typeitid="2xnigijn3tu" style="display:inline;position:relative;font:inherit;color:inherit;line-height:inherit;" class="ti-container">{{ site.description }}</span>
+      <div class="com"><span id="type-it" data-typeitid="2xnigijn3tu" style="display:inline;position:relative;font:inherit;color:inherit;line-height:inherit;" class="ti-container">{{ site.description }}</span></div>
       <script type="text/javascript"> new TypeIt('#type-it', { speed: 150, startDelay: 500, loop: true }); </script>
       <div class="index-contact">
         <p>
