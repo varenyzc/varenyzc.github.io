@@ -3,7 +3,7 @@ title: 在同一个Activity下的两个Fragment之间的通信
 date:  2019-01-20 0:20:13 +0800
 category: develop
 tags: android
-excerpt: 
+excerpt: 使用接口方法实现。
 ---
 
 最近在做一个app，界面的架构为：一个Activity里面嵌套若干个Fragment，通过侧滑导航栏切换Activity中的Fragment。
