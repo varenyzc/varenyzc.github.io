@@ -4,11 +4,10 @@ title: 关于
 reward: false
 ---
 
-<div align=center></div>![image](https://varenyzc.github.io/assets/img/avatar.webp){:width="100px" height="100px"}
+![头像](https://varenyzc.github.io/assets/img/avatar.webp "头像"){:width="120px" height="120px"}
 
-## 电子专业转行cs非专业程序员 
-
-### 主攻方向：安卓开发、前端开发。
+## 电子专业转行cs非专业程序员
+## 这里记录我开发的笔记、心路历程等等
  
 ---
 
