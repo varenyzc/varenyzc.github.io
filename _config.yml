@@ -19,9 +19,9 @@ title: varenyzc的世界
 # 下面填写你的网络常用名
 name: varenyzc
 # 下面填写你的座右铭或者是个性签名
-description: 不想做安卓的前端不是好程序员.
+description: 永远相信美好的事情即将发生.
 # 你博客的 url 地址，比如：https://showzeng.github.io 或者是自定义的域名
-url: https://varenyzc.github.io
+url: https://www.varen.top
 # 在页尾的版权时间信息，比如：2016-2018，默认是 2018 年
 copyright_time: 2020
 # 标签页的 logo 及博客的头像，如果你想引用网络图片资源，就取消下面的注解，并填写图片资源的 url 地址
@@ -43,7 +43,7 @@ show_excerpt: true
 weibo: https://weibo.com/varen5201314
 github: https://github.com/varenyzc
 # 邮件地址前面带上 mailto:
-email: mailto:465057895@qq.com
+email: mailto:varenyzc@foxmail.com
 # RSS 订阅
 rss: true
 # --- 社交链接 ---
